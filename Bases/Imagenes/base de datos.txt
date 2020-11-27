@@ -1,0 +1,28 @@
+tupla>atributo
+
+atributo (Cóg.libro)
+entidad o relacion
+dominio (cadena de 9 caracteres)
+cardinalidad 6 - 6 registros o tuplas
+grado 5- 5 atributos (id director,nombre,apellido,apellido2,datanacemento)
+clave primaria identifica una tupla
+fk foreing key clave foranea relaciona tablas
+con asteriscos puede ser nulo el valor
+
+integridad referencial-si una clave foranea tiene un valor, ese valor 
+tiene que estar dentro de la tabla que rereferencia
+Puntuacion-CodXurado(221)
+Xurado-CodXurado(221)
+
+Acciones en una base de datos
+consultar,insertar información,modificar información,borrar información
+
+borrado/modificacion en cascada
+elimina los registros de todas las tablas
+
+borrado a nulo
+eliminar un valor, convierte a nulo los valores de las tablas
+que se relacionan
+
+set default
+al eliminar, pone un valor por defecto en todas las tablas
