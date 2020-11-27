@@ -1,0 +1,67 @@
+h1{
+    border-top:solid 5px blue;
+    margin-left: 60px;
+    width: 300px;}
+
+h2{border: dashed 1px red;
+margin-left: 40px;
+padding:10px;
+width: 300px;}
+
+h3{border-bottom: dotted 3px green;
+margin-left: 20px;
+width: 300px;}
+
+#encabezado{
+border: dotted 5px green;
+padding-left: 30px;
+padding-right: 30px; 
+padding-bottom: 40px;
+margin-top: 40px;
+margin-left: 100px;    
+width: 370px;
+    background-color: darkred;
+}
+
+
+#definicion{
+border: solid 5px green;
+padding-left: 3px;
+padding-right: 3px;    
+margin: 5px;
+width: 370px;
+border-top-color: aqua; 
+border-right-style: dashed;    
+}
+
+#definicion dd{
+border: dashed 5px darkblue;
+padding-left: 3px;
+padding-right: 3px;    
+margin: 20px;
+width: 330px; 
+}
+#definicion dt{border-bottom: solid 3px red}
+
+#orden{
+border: dashed 4px blue;
+padding-left: 30px;
+padding-right: 30px;    
+margin: 40px;
+height: 100px;
+width: 150px;
+background-color: lightgrey;    
+}
+
+#desorden {
+border: solid 5px red;
+padding-left: 80px;
+padding-right: 10px;   
+padding-top: 25px;    
+margin: 70px;
+height: 80px;
+width: 150px;
+background-color: darkcyan;
+border-left: dotted 9px violet;
+    
+}
