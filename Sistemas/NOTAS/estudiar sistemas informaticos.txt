@@ -1,0 +1,77 @@
+Que es una licencia
+Contrato entre alguien que tiene los derechos de autoría y la entidad que lo esta comprando
+
+Software libre
+Código fuente original, permisos de utilizarlo, modificarlo y distribuirlo( con o sin modificaciones)
+gratis o no, o con regulaciones legales o no
+
+Copyleft
+-sin copyleft:autoriza a terceros que modifiquen y que puedan licenciar con sus propios términos
+-con copyleft:obliga a que se deban seguir las restricciones que han sido impuestas
+
+Gpl
+software libre con copyleft, puede ser vendida
+
+Debian
+software libre con restricciones:calquera distribución esta acompañada con el código fuente y debe ser libre y con la misma licencia
+
+bsd
+software libre- se puede comercializar, sin la obligación de compartir el código fuente
+
+mpl
+software libre-obliga a entregar al creador original las modificaciones y solo se puede licenciar los archivos binarios
+
+x.org
+software libre sin copyleft-con distribución del código fuente, permite la distribución y modificación del código fuente en las mismas condiciones que el software original
+
+Dominio público
+software distribuido sin ningún tipo de restricción. Puede ser modificado, usado y distribuido y se puede licenciar sus distribuciones libremente
+
+
+Semi libre
+contenido gratuito para el uso, distribucion y copia (a veces veo muertos).No se puede obtener ningún beneficio con este material aunque sea una copia
+
+Freeware
+Libre derecho de uso y copia pero sin modificación o venta por parte de terceros
+
+Donationware
+Licencia freeware pero al final se pide un donativo para el desarrollo, no es obligatorio
+
+Postcardware
+Invita al usuario enviar una carta postal una vez que se compra el producto
+
+Shareware
+Se puede usar por un tiempo limitado, o permanentemente con restricciones
+
+Trial
+Programa con todas la funciones pero durante un tiempo deteminado
+
+Demo 
+Producto permanente con muchas funciones restringidas 
+
+Adware
+Programas gratuitos que descargan publicidad
+
+Crippleware
+Programas con funciones limitadas y con una versión completa
+
+Abandonware
+Proyecto abandonado que se decide liberarlo de todos los derechos de copyright
+
+Careware
+Licencia donde se pide un donativo para apoyar a causas humanitarias
+
+Software propietario
+El autor limita los derechos de copia, modificación y redistribución y se paga al autor para poder hacer algo
+
+Software comercial
+Software con intenciones de venderse, y donde el usuario compra una licencia de uso del software
+
+Software oem
+Se puede distribuir si se instala en un equipo nuevo y algunos pueden limitar el número de reinstalaciones
+
+Retail
+Software que se vende y el usuario puede cederlo a otro o venderlo
+
+De volumen
+Se establece una cantidad deteminada de equipos que pueden utilizar la misma licencia dentro de una empresa
