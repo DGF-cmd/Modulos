@@ -1,0 +1,2 @@
+numero de dentro= 	limite superior-limite inferior +1 
+segundo numero es donde empieza
