@@ -1,0 +1,34 @@
+p{
+    border:1px solid blue;
+}
+a{
+    border: 1px dashed red;
+    
+}
+div{
+    border: 3px solid grey;
+}
+#Caja2{
+    position: relative; /* pto.de referencia su posicionamiento normal*/
+    top:20px;
+    left: 50px;
+}
+#Caja3{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+#DibPosAbs{
+    position: relative;
+    
+}
+/*
+position: static; es el valor de posicionamiento por defecto
+position:relative;indicamos posicionamiento relativo
+position:absolute; indicamos posicionamiento absoluto
+
+top:50px; desplazamiento desde el borde superior(pto. referencia) hasta donde quiero colocarlo
+bottom:100px desplazamiento desde el borde inferior
+left:10px desplazamiento desde el borde izquierdo
+right:20px desplazamiento del el borde derecho
+*/

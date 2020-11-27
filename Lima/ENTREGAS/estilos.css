@@ -1,0 +1,32 @@
+/* en las listas ordenadas los elementos quiero que vayan en color cyan, tipo de letra arial, color de fondo amarillo, tamaño de letra 25, la lista ordenada entera que aparezca los cuatro bordes en color negro */
+
+li {
+    color: cyan;
+    font-family: arial;
+    background-color:darkcyan;
+    font-size: 25px;
+    
+}
+
+ol {
+border: 6px solid black;
+}
+
+dt{
+    background-color: skyblue;
+    color: red;
+    border: 2px black dashed;
+}
+dd{
+    
+    font-style: italic;
+}
+dl{
+    font-family: courier;
+}
+
+
+
+#pepe {
+    font-size: 50px;
+}
