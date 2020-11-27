@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Primer ejercicio de HTML.">
+        <meta name="author" content="Diego González">
+        <title>Ejercicio 6</title>
+        <link  rel="stylesheet" href="ejercicio6.css" >
+    </head>
+    <body>
+        <h1>Posicionamiento flotante y caja normales: Propiedad "clear"</h1>
+        <p>En este ejemplo se muestran varias cajas flotantes (color azul claro) y varias normales ( color lima): Las cajas normales se colocarán debajo o no de las flotantes, según se indique en la propiedad "clear".</p>
+        
+        <div >
+        <p id="p1">Caja1. Posicionamiento flotante. Propiedad "float:left"</p>
+        <p id="p2">Caja2. Posicionamiento flotante. Propiedad "float:right"</p>
+        <p id="p3">Caja3. Posicionamiento normal. Sin propiedad clear. La caja en sí ignora el espacio ocupado por las cajas flotantes, pero su contenido respeta el espacio de éstas, mostrándose en el espacio libre que estas dejas.</p>
+        <p id="p4">Caja4. Posicionamiento normal. con propiedad "clear: left". Esta caja se ha colocado debajo de la caja flotante de la izquierda, pero no de la caja flotante de la derecha, la cual esta solapada en parte con esta caja.</p>
+        <p id="p5">Caja5. Posicionamiento flotante. Propiedad "float:right"</p>
+        <p id="p6">Caja6. Posicionamiento flotante. Propiedad "float:left"</p>
+        <p id="p7">Caja7. Posicionamiento normal. con propiedad "clear: both". Esta caja se ha colocado debajo de cualquier caja flotante, tanto a su izquierda como a su derecha.</p>
+        </div>
+    </body>
+</html>

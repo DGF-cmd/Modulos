@@ -1,0 +1,21 @@
+.A{
+                color: aqua; 
+                border: solid 5px green;}
+.b{
+                color: brown;
+                border:dashed 5px darkblue;
+}
+ul {
+    color: cadetblue;
+    border: dotted 2px black;
+    }    
+
+.letras{
+    color:coral; 
+    border: dashed 5px green;
+}
+
+.numeros{
+    color: darkmagenta; 
+    border: solid 2px brown;
+}

@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+div{
+   background-color: darkgrey;
+    height: 500px;
+}
+
+div, p{
+    margin-left: 50px;
+     margin-right: 50px;
+}
+#p1{background-color: gray;
+position: static;
+    top: 150px;
+    left: 150px;
+}
+#p2{background-color: greenyellow;
+position: relative;
+    top: 150px;
+    left: 150px;
+}
+#p3{background-color: yellow;
+position: absolute;
+    top: 150px;
+    left: 150px;
+    
+
+}
+#p4{background-color: aqua;
+position: fixed;
+    top: 150px;
+    left: 250px;
+}
+
+div p{
+    width: 100px;
+    height: 100px;
+}

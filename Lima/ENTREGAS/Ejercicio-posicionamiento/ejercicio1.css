@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+div{
+   background-color: darkgrey;
+    height: 400px;
+}
+
+div, p{
+    margin-left: 50px;
+     margin-right: 50px;
+}
+#p1{background-color: gray;
+
+}
+#p2{background-color: greenyellow;
+
+}
+#p3{background-color: yellow;
+
+
+}
+#p4{background-color: aqua;
+
+}
+
+div p{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+}

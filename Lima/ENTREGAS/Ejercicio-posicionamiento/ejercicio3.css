@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+div{
+   background-color: darkgrey;
+    height: 400px;
+    margin: auto;
+}
+
+div, p{
+    margin-left: 50px;
+     margin-right: 50px;
+}
+
+
+
+#p1{background-color: gray;
+position: static;
+    right: 50px;
+    border-top: 50px;
+}
+#p2{background-color: greenyellow;
+position: relative;
+    right: 50px;
+    bottom: 50px;
+}
+#p3{background-color: yellow;
+position: absolute;
+    right: 50px;
+    bottom: 50px;
+
+}
+#p4{background-color: aqua;
+position: fixed;
+     right: 150px;
+    bottom: 50px;
+    
+}
+
+div p{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+}
