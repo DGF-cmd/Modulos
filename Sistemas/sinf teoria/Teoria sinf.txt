@@ -1,0 +1,25 @@
+La informática es la ciencia que estudia el tratamiento automático y lógico de los datos mediante ordenadores
+
+Ordenador máquina compuesta de elementos físicos de tipo electrónico, capaz de realizar trabajos a gran velocidad y con gran precisión
+características:
+Gran velocidad
+Gran potencia de cálculo aritmético y lógico
+Facultad de memorizar programas y datos
+Facultad de comunicación con personas y otras máquinas
+
+Información-conjunto de datos necesarios para un proceso, estructurado en un orden, aportan un conocimiento de las cosas
+
+Datos-Conjunto de símbolos que representan valores, hechos objetos o ideas.Los datos no aportan información deseada, hay que procesar
+
+Sistema informático-Conjunto de elementos que permiten la captura, almacenamiento y proceso de los datos
+Componentes:
+Componente físico:Elemntos tangibles
+Componente lógico:Programa
+Componente humano:Personal de diseño, desarollo, explotación e implantación del sistema.
+
+Software
+Conjunto de programas, procedimientos, reglas, documentación y datos asociados que forman parte de las operaciones de un sistema de computación
+Tipos:
+Software de sistema o software base
+Software de aplicación 
+Software de programación
