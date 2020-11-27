@@ -12,8 +12,11 @@ public class Ejercicio4_11 {
     minutos = paco.nextInt();
     resh=24-hora;
     resm=60-minutos;
-    System.out.println(resh + " horas");
-    System.out.println(resm + " minutos");
+  
+    
+    
+    System.out.println(resm + resh);
+    System.out.println("pero por que");
     
 }
     
