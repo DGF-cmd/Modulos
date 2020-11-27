@@ -1,0 +1,47 @@
+p,ul,ol{margin: 0px; }
+p{background-color: blue}
+            #primer{
+            height: 100px;
+            width:200px;}
+#segundo{
+    height: 120px;
+    width:200px;
+    padding: 30px;
+    border: solid 2px red;
+}
+#tercer{
+    height: 120px;
+    width:200px;
+    padding: 40px;
+    border: solid 15px red;
+}
+#cuarto{
+    height: 120px;
+    width:200px;
+    padding: 40px;
+    border: solid 15px red;
+    margin-left: 100px;
+    margin-top: 50px;
+            }
+            
+#cinco{
+    border: solid 4px blue;
+    background-color: red;
+}
+ #seis{
+    height: 250px;
+    width:  350px;
+    padding: 10px;
+                
+    border-top:dashed 5px red;
+    border-left: dotted 1px blue;
+    border-right: dotted 1px blue;
+    border-bottom: double 10px yellow;
+    background-color:
+
+     
+     
+     
+     
+     
+     
